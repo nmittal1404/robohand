@@ -14,6 +14,8 @@ Team:
       
 Details: We use flex sensor similar to the one used in Nintendo Power Glove, resistance across these sensors change when they bend. These sensors are attached to each finger of our magic glove. We are monitoring the voltage across these sensors, when you bend your finger in our magic glove, voltage across these sensors change. We move servo motor which are attached to robotic hand's fingers in the same ratio as change in the voltage. We use arduino to monitor the voltage across flex sensors and move servo motors attached to the robotic hand.
 
+Arduino Code: https://github.com/nmittal1404/robohand/blob/master/robohand.ino
+
 References: 
 1. Tutorial about Flex Sensor : https://learn.sparkfun.com/tutorials/flex-sensor-hookup-guide
 2. http://www.instructables.com/id/How-to-use-a-Flex-Sensor-Arduino-Tutorial/
