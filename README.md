@@ -1,5 +1,5 @@
 # robohand
-Magic Glove - Robotic Hand (This project was part of Oracle Maker Faire 2017)
+Magic Glove - Robotic Hand (This project is part of Oracle Maker Faire 2017)
 
 Summary: You wear our magic glove, when you bend your fingers, robotic hand fingers also bend. 
 
