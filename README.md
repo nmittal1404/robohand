@@ -17,8 +17,7 @@ Details: We use flex sensor similar to the one used in Nintendo Power Glove, res
 References: 
 1. Tutorial about Flex Sensor : https://learn.sparkfun.com/tutorials/flex-sensor-hookup-guide
 2. http://www.instructables.com/id/How-to-use-a-Flex-Sensor-Arduino-Tutorial/
-3. http://www.instructables.com/id/Arduino-Make-a-Robotic-Hand-Low-Cost/
-4. 
+3. http://www.instructables.com/id/Arduino-Make-a-Robotic-Hand-Low-Cost/ 
 
 Materials:
 1. 4M Robotic Hand Kit: https://www.amazon.com/4M-3774-Robotic-Hand-Kit/dp/B005MK0OPO/ref=sr_1_1?ie=UTF8&qid=1507571607&sr=8-1&keywords=robotic+hand+kids
