@@ -5,11 +5,12 @@ Summary: You wear our magic glove, when you bend your fingers, robotic hand fing
 
 Project Videos: https://www.youtube.com/playlist?list=PL9dX3efrT2dpuFWb-jnjg_N2TIaNPRGwG
 
-Team: Venkatesh Rangathan (venkatesh.ranganathan@oracle.com)
-      Nitin Mittal (nitin.x.mittal@oracle.com)     
-      Keshav (7 years)       
-      Anika (6 years)      
-      Sriram (10 years) 
+Team: 
+1. Venkatesh Rangathan (venkatesh.ranganathan@oracle.com)
+2. Nitin Mittal (nitin.x.mittal@oracle.com)     
+3. Keshav (7 years)       
+4. Anika (6 years)      
+5. Sriram (10 years) 
       
 Details: We use flex sensor similar to the one used in Nintendo Power Glove, resistance across these sensors change when they bend. These sensors are attached to each finger of our magic glove. We are monitoring the voltage across these sensors, when you bend your finger in our magic glove, voltage across these sensors change. We move servo motor which are attached to robotic hand's fingers in the same ratio as change in the voltage. We use arduino to monitor the voltage across flex sensors and move servo motors attached to the robotic hand.
 
